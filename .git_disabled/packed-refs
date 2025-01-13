@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+05eca7cde6739fb7ec0e627ae2bd2a4041c05cd4 refs/remotes/origin/807-transparency-about-development
+b3b4d74824f63853474bd8dc21754ee8a53f72c4 refs/remotes/origin/documentation-enhancements
+f183b7f055f7e5b433138cafa750f342a61f298f refs/remotes/origin/gh-pages
+3d0f8e8f03edc1178e8c20d421ebe9b4baf82111 refs/remotes/origin/license-copyright-update
+fad41973e2d09c905bfeeef6a999ff57c88f746a refs/remotes/origin/main
+be7a754a743b1ee4611492f261d4296eb61c55c7 refs/remotes/origin/stable
+f333c55ce0d23732841388e27bfde5475298c554 refs/tags/v0.0.1
+7e44cb8ff7b347f8bd7ab8fe042b045262f329a6 refs/tags/v0.0.2
+fce8999f27c0affbc762dc90de992b5a759ab325 refs/tags/v0.0.3
+1cf83454ed8c90eddc7e238fa0810a1375d6a81c refs/tags/v0.0.4
+608d9338a856e287508252811054fd29ebad2c7a refs/tags/v0.0.5
